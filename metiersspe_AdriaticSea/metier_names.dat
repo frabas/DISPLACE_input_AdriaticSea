@@ -1,4 +1,5 @@
 idx name
 0 b_otter_trawl
 1 nets
-2 rapido_trawl
+2 nets_large
+3 rapido_trawl

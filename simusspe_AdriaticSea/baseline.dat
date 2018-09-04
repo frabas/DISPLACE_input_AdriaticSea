@@ -11,13 +11,13 @@ baseline
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-40
+2
 # nrow_coord
-20778
+18101
 # nrow_graph
-123116
+104574
 # a_port
-20666
+17924
 # grid res km
 3
 # is_individual_vessel_quotas
