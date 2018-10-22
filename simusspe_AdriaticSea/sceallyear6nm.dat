@@ -1,5 +1,5 @@
 # dyn_alloc_sce
-baseline focus_on_high_profit_grounds area_closure
+baseline focus_on_high_profit_grounds area_monthly_closure TechCreeping3Per
 # dyn_pop_sce
 baseline
 # biolsce
@@ -11,7 +11,7 @@ baseline
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-2
+22
 # nrow_coord
 18101
 # nrow_graph
